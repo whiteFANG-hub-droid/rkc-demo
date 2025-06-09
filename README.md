@@ -1,4 +1,4 @@
 # rkc-demo
 This is my first Git Repository.
 <br>
-Author- Rohit Kamal Chakraborty
+Author- Rohit Kamal Chakraborty(rkc)
